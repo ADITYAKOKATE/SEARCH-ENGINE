@@ -7,3 +7,6 @@ Developed a fully functional search engine using HTML, CSS, and JavaScript. This
 - Optimized Performance: Ensures quick and reliable search responses.
   
 This project demonstrates expertise in front-end development and the integration of interactive and efficient features for enhanced usability.
+## Screenshots
+<img src="Screenshot 2025-03-05 123830.png" width="500"><img src="Screenshot 2025-03-05 123848.png" width="500">
+
